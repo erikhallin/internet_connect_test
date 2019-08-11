@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1457897314 source:c:\erikprogram\internet_connect_test\main.cpp
+	<iostream>
+	<string>
+	"networkCom.h"
+
+1353442132 c:\erikprogram\internet_connect_test\networkcom.h
+	<winsock2.h>
+	<iostream>
+	<string>
+	<vector>
+	<winsock2.h>
+	"serverCom.h"
+	"clientCom.h"
+
+1457896917 c:\erikprogram\internet_connect_test\servercom.h
+	<iostream>
+	<stdlib.h>
+	<winsock2.h>
+	<string>
+	<sstream>
+	<vector>
+
+1457896836 c:\erikprogram\internet_connect_test\clientcom.h
+	<iostream>
+	<stdlib.h>
+	<sstream>
+	<string>
+	<vector>
+	<winsock2.h>
+
+1353441710 source:c:\erikprogram\internet_connect_test\networkcom.cpp
+	"networkCom.h"
+
+1457896889 source:c:\erikprogram\internet_connect_test\clientcom.cpp
+	"clientCom.h"
+
+1457896901 source:c:\erikprogram\internet_connect_test\servercom.cpp
+	"serverCom.h"
+
